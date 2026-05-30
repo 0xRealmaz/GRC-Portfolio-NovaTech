@@ -12,7 +12,7 @@ The goal is to apply industry frameworks in a real-world scenario to:
 
 ---
 
-## 🏢 About the Company
+##  About the Company
 
 **NovaTech Online Store** is a fictional online retail platform that:
 
@@ -39,7 +39,7 @@ This project aims to:
 
 ---
 
-## 🧩 Frameworks Used
+##  Frameworks Used
 
 - NIST Cybersecurity Framework  
 - ISO/IEC 27001 Information Security Standard  
@@ -47,7 +47,7 @@ This project aims to:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - **Risk Register** → Identification and assessment of risks  
 - **ISO 27001 Gap Analysis** → Identification of missing controls  
@@ -102,7 +102,7 @@ Defines how risks are handled:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 This project was created as part of a personal learning journey in:
 
