@@ -112,6 +112,6 @@ This project was created as part of a personal learning journey in:
 
 ---
 
-## 🚀 Purpose
+## Purpose
 
 This repository demonstrates practical hands-on experience in GRC and IT Audit beyond theoretical knowledge.
