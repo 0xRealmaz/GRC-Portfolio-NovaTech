@@ -22,11 +22,9 @@ This assessment evaluates the cybersecurity maturity of NovaTech using the NIST 
 
 The organization demonstrates low cybersecurity maturity across all NIST CSF functions.
 
-Major gaps include lack of:
-- Asset visibility
-- Access controls
-- Monitoring systems
-- Incident response capability
-- Backup and recovery processes
-
-Addressing these areas is critical to improving overall security posture.
+Key gaps include:
+- Lack of asset visibility
+- Weak access controls
+- No monitoring capabilities
+- No incident response process
+- No backup and recovery strategy
